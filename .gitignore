@@ -4,3 +4,7 @@ Makefile
 cmake_install.cmake
 *.a
 *.exe
+.cmake
+.idea
+*.ninja*
+Testing
